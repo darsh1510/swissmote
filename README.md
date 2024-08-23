@@ -1,2 +1,0 @@
-# swissmote
-vercel project
